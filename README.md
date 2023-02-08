@@ -3,7 +3,7 @@ Further information regarding the video tutorial series "Art History Data on the
 
 
 
-3. Video: Practical example: Developing research questions with SPARQL
+# 3. Video: Practical example: Developing research questions with SPARQL
 
 Sheet 1 -	
 https://scholar.harvard.edu/angeladressen/home 
@@ -84,7 +84,7 @@ A Semantic Web primer, ed. by Grigoris Antoniou, 3rd ed. Cambridge MA 2012
 
 
 
-4. Video: Practical example: Developing research questions with API query and Jupyter Notebook
+# 4. Video: Practical example: Developing research questions with API query and Jupyter Notebook
 
 Folie 1	-
 https://scholar.harvard.edu/angeladressen/home 
@@ -140,7 +140,7 @@ Github:  https://github.com/vanda
 
 
 
-5. Video: Modelling Data with Open Refine
+# 5. Video: Modelling Data with Open Refine
 
 Sheet 1  -     	
 https://scholar.harvard.edu/angeladressen/home 
@@ -189,7 +189,7 @@ Open Refine on GitHub https://github.com/OpenRefine/OpenRefine
 
 
 
-6. Video: Working with digital images and IIIF 
+# 6. Video: Working with digital images and IIIF 
 
 Sheet 1 -     
 Angela Dressen
@@ -320,7 +320,7 @@ Popular IIIF Tools https://iiif.io/get-started/tools/
 
 
 
-7. Video: Considerations: Art historical data and research questions 
+# 7. Video: Considerations: Art historical data and research questions 
 
 Sheet 1  -    	
 https://scholar.harvard.edu/angeladressen/home 
