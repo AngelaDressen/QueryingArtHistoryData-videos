@@ -1,5 +1,5 @@
-# Querying-Art-History-Data-on-the-web---video-tutorials
-Further information regarding the video tutorial series "Art History Data on the Web"
+# Querying-Art-History-Data-on-the-web-video-tutorials
+Further information regarding the video tutorial series "Art History Data on the Web" (Digital4Humanities)
 
 
 
