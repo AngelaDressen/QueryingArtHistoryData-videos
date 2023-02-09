@@ -1,7 +1,19 @@
 # Querying-Art-History-Data-on-the-web-video-tutorials
-Further information regarding the video tutorial series "Art History Data on the Web" (Digital4Humanities)
+Information regarding the video tutorial series "Art History Data on the Web" (Digital4Humanities)
 
+# Video tutorial series: Querying Art History Data on the web
+1. Introduction: Finding Museum data, modelling and visualizing them - 
+CLARIAH: https://teaching.clariah.de/search/item/5eaa8ead6117b11b4417f695/05c3ec1773e14bae1a2fd73f3e2d2810/ -
+CLARIAH: https://teaching.clariah.de/search/item/5eaa8ead6117b11b4417f695/9a3182df60906104a84de965aed64eb5/ - DOI: 
+2. The Semantic Web + API queries - 
+CLARIAH: https://teaching.clariah.de/search/item/5eaa8ead6117b11b4417f695/adf8aa18a4c4268163e219bd2e6c3ad8/ - DOI: 
+3. Practical example: Developing research questions with SPARQL
+4. Practical example: Developing research questions with API query and Jupyter Notebook
+5. Modelling Data with Open Refine
+6. Working with digital images and IIIF
+7. Considerations: Art historical data and research questions 
 
+# Links and informations given in the videos 
 
 # 3. Video: Practical example: Developing research questions with SPARQL
 
