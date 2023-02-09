@@ -1,19 +1,21 @@
 # Querying-Art-History-Data-on-the-web-video-tutorials
 Information regarding the video tutorial series "Art History Data on the Web" (Digital4Humanities)
+PD Dr. Angela Dressen
+Elodie Sacher BA 
 
 # Video tutorial series: Querying Art History Data on the web
-1. Introduction: Finding Museum data, modelling and visualizing them - 
+1. Introduction: Finding Museum data, modelling and visualizing them (Angela Dressen) - 
 CLARIAH: https://teaching.clariah.de/search/item/5eaa8ead6117b11b4417f695/05c3ec1773e14bae1a2fd73f3e2d2810/ -
 CLARIAH: https://teaching.clariah.de/search/item/5eaa8ead6117b11b4417f695/9a3182df60906104a84de965aed64eb5/ - DOI: 
-2. The Semantic Web + API queries - 
+2. The Semantic Web + API queries (Angela Dressen) - 
 CLARIAH: https://teaching.clariah.de/search/item/5eaa8ead6117b11b4417f695/adf8aa18a4c4268163e219bd2e6c3ad8/ - DOI: 
-3. Practical example: Developing research questions with SPARQL
-4. Practical example: Developing research questions with API query and Jupyter Notebook
-5. Modelling Data with Open Refine
-6. Working with digital images and IIIF
-7. Considerations: Art historical data and research questions 
+3. Practical example: Developing research questions with SPARQL (Angela Dressen)
+4. Practical example: Developing research questions with API query and Jupyter Notebook (Elodie Sacher)
+5. Modelling Data with Open Refine (Angela Dressen)
+6. Working with digital images and IIIF (Angela Dressen, Gianmarco Spinaci) 
+7. Considerations: Art historical data and research questions (Angela Dressen) 
 
-# Links and informations given in the videos 
+# LINKS AND CODES SHOWN IN THE VIDEOS
 
 # 3. Video: Practical example: Developing research questions with SPARQL
 
@@ -98,22 +100,22 @@ A Semantic Web primer, ed. by Grigoris Antoniou, 3rd ed. Cambridge MA 2012
 
 # 4. Video: Practical example: Developing research questions with API query and Jupyter Notebook
 
-Folie 1	-
+Sheet 1	-
 https://scholar.harvard.edu/angeladressen/home 
 https://orcid.org/0000-0001-9447-7886
 
-Folie 6 -
+Sheet 6 -
 More basic information on API queries via the previous tutorial of PD Dr. Angela Dreßen: https://www.youtube.com/watch?v=X__pORJbE8s&t=150s
 V&A API Guide:
 developers.vam.ac.uk/guide/v2/welcome.html
 
-Folie 8	-
+Sheet 8	-
 More information via 
 https://jupyter-notebook.readthedocs.io/en/stable/
 https://www.dataquest.io/blog/jupyter-notebook-tutorial/
 https://realpython.com
 
-Folie 9	-
+Sheet 9	-
 Installation of Anaconda (Python 3.8):
 www.anaconda.com/products/distribution
 Download Anaconda via
@@ -121,33 +123,33 @@ https://www.anaconda.com/products/distribution
 Information for MacOS, Windows and Linux user:
 https://docs.anaconda.com/anaconda/install/index.html
 
-Folie 10	-
+Sheet 10	-
 Pre-installed libraries: https://docs.anaconda.com/anaconda/packages/pkg-docs/
 Installing new packages: https://packaging.python.org/en/latest/tutorials/installing-packages/
 Pip install: https://pip.pypa.io/en/stable/cli/pip_install/
 
-Folie 13	- 
+Sheet 13	- 
 Getting JSON with Python Requests Library:
 https://reqbin.com/code/python/rituxo3j/python-requests-json-example
 
-Folie 15	- 
+Sheet 15	- 
 More information via 
 https://developers.vam.ac.uk/guide/v2/search/introduction.html
 https://developers.vam.ac.uk/guide/v2/search/boolean.html
 
-Folie 17	- 
+Sheet 17	- 
 More information via 
 https://developers.vam.ac.uk/guide/v2/common-identifiers.html
 https://developers.vam.ac.uk/guide/v2/filter/introduction.html
 
-Folie 25	- 
+Sheet 25	- 
 Open source tool Open Refine: https://openrefine.org
 
-Folie 26	- 
+Sheet 26	- 
 Palladio/online tool of the Humanities + Design
 Lab of the Stanford University: https://hdlab.stanford.edu/palladio/
 
-Folie 28	- 
+Sheet 28	- 
 Github:  https://github.com/vanda
 
 
