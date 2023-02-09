@@ -1,7 +1,7 @@
 # Querying-Art-History-Data-on-the-web-video-tutorials
-Information regarding the video tutorial series "Art History Data on the Web" (Digital4Humanities)
-PD Dr. Angela Dressen
-Elodie Sacher BA 
+Information regarding the video tutorial series "Art History Data on the Web" (project "Digital4Humanities", University of Jena). Collaborators: 
+PD Dr. Angela Dressen, 
+Elodie Sacher BA.
 
 # Video tutorial series: Querying Art History Data on the web
 1. Introduction: Finding Museum data, modelling and visualizing them (Angela Dressen) - 
