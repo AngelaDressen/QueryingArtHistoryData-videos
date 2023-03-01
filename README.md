@@ -6,7 +6,7 @@ PD Dr. Angela Dressen,
 Elodie Sacher BA.
 
 
-# Video tutorial series: Querying Art History Data
+# Video tutorial series: Querying Art History Data 
 1. Introduction: Finding Museum data, modelling and visualizing them (Angela Dressen) - 
 CLARIAH: https://teaching.clariah.de/search/item/5eaa8ead6117b11b4417f695/05c3ec1773e14bae1a2fd73f3e2d2810/ -
 CLARIAH: https://teaching.clariah.de/search/item/5eaa8ead6117b11b4417f695/9a3182df60906104a84de965aed64eb5/ - DOI: 
@@ -20,7 +20,7 @@ CLARIAH: https://teaching.clariah.de/search/item/5eaa8ead6117b11b4417f695/adf8aa
 
 # LINKS AND CODES SHOWN IN THE VIDEOS
 
-# 3. Video: Practical example: Developing research questions with SPARQL
+# 3. Video: Practical example: Developing research questions with SPARQL (Angela Dressen)
 
 Sheet 1 -	
 https://scholar.harvard.edu/angeladressen/home 
@@ -101,7 +101,7 @@ A Semantic Web primer, ed. by Grigoris Antoniou, 3rd ed. Cambridge MA 2012
 
 
 
-# 4. Video: Practical example: Developing research questions with API query and Jupyter Notebook
+# 4. Video: Practical example: Developing research questions with API query and Jupyter Notebook (Elodie Sacher)
 
 Code-Datei: see under files: https://github.com/AngelaDressen/QueryingArtHistoryData-videos/blob/main/Tutorial%20API%20Queries%20in%20Jupyter%20Notebook%20(python)%2C%20Elodie%20El%20Hossaini-Sacher.ipynb 
 
@@ -162,7 +162,7 @@ Github:  https://github.com/vanda
 
 
 
-# 5. Video: Modelling Data with Open Refine
+# 5. Video: Modelling Data with Open Refine (Angela Dressen)
 
 Sheet 1  -     	
 https://scholar.harvard.edu/angeladressen/home 
@@ -211,7 +211,7 @@ Open Refine on GitHub https://github.com/OpenRefine/OpenRefine
 
 
 
-# 6. Video: Working with digital images and IIIF 
+# 6. Video: Working with digital images and IIIF (Angela Dressen, Gianmarco Spinaci)
 
 Sheet 1 -     
 Angela Dressen
@@ -342,7 +342,7 @@ Popular IIIF Tools https://iiif.io/get-started/tools/
 
 
 
-# 7. Video: Considerations: Art historical data and research questions 
+# 7. Video: Considerations: Art historical data and research questions (Angela Dressen)
 
 Sheet 1  -    	
 https://scholar.harvard.edu/angeladressen/home 
