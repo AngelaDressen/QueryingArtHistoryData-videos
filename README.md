@@ -100,6 +100,9 @@ A Semantic Web primer, ed. by Grigoris Antoniou, 3rd ed. Cambridge MA 2012
 
 # 4. Video: Practical example: Developing research questions with API query and Jupyter Notebook
 
+Code-Datei: see under files
+You can download the code and open the Jupyter Notebook from your Anaconda Navigator by uploading it to Jupyter Lab. In Jupyter Lab you can run the code.
+
 Sheet 1	-
 https://scholar.harvard.edu/angeladressen/home 
 https://orcid.org/0000-0001-9447-7886
@@ -116,6 +119,7 @@ https://www.dataquest.io/blog/jupyter-notebook-tutorial/
 https://realpython.com
 
 Sheet 9	-
+Please note that the tasks shown in the tutorials are performed on macOs. Nevertheless, the presented installation guidelines also apply to Windows users. Slight differences may occur if the Windows terminal is started instead of the macOs terminal. Both operating systems allow access to the command line via your computer's search engine. Search for terminal. You may need to select the "Run as administrator" option on Windows. 
 Installation of Anaconda (Python 3.8):
 www.anaconda.com/products/distribution
 Download Anaconda via
