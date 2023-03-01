@@ -100,7 +100,8 @@ A Semantic Web primer, ed. by Grigoris Antoniou, 3rd ed. Cambridge MA 2012
 
 # 4. Video: Practical example: Developing research questions with API query and Jupyter Notebook
 
-Code-Datei: see under files
+Code-Datei: see under files: https://github.com/AngelaDressen/QueryingArtHistoryData-videos/blob/main/Tutorial%20API%20Queries%20in%20Jupyter%20Notebook%20(python)%2C%20Elodie%20El%20Hossaini-Sacher.ipynb 
+
 You can download the code and open the Jupyter Notebook from your Anaconda Navigator by uploading it to Jupyter Lab. In Jupyter Lab you can run the code.
 
 Sheet 1	-
