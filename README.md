@@ -1,17 +1,14 @@
 # Querying-Art-History-Data-videos
-Additional information regarding the video tutorial series "Art History Data on the Web" (project "Digital4Humanities", University of Jena https://www.gw.uni-jena.de/en/faculty/juniorprofessur-fuer-digital-humanities/research/digital4humanities). 
+Additional information regarding the video tutorial series "Art History Data on the Web" (project "Digital4Humanities", University of Jena https://www.gw.uni-jena.de/en/faculty/juniorprofessur-fuer-digital-humanities/research/digital4humanities. Videos: https://www.db-thueringen.de/receive/dbt_mods_00055798). 
 
 Collaborators: 
 PD Dr. Angela Dressen, 
 Elodie Sacher BA.
 
 
-# Video tutorial series: Querying Art History Data 
-1. Introduction: Finding Museum data, modelling and visualizing them (Angela Dressen) - 
-CLARIAH: https://teaching.clariah.de/search/item/5eaa8ead6117b11b4417f695/05c3ec1773e14bae1a2fd73f3e2d2810/ -
-CLARIAH: https://teaching.clariah.de/search/item/5eaa8ead6117b11b4417f695/9a3182df60906104a84de965aed64eb5/ - DOI: 
-2. The Semantic Web + API queries (Angela Dressen) - 
-CLARIAH: https://teaching.clariah.de/search/item/5eaa8ead6117b11b4417f695/adf8aa18a4c4268163e219bd2e6c3ad8/ - DOI: 
+# Video tutorial series: Querying Art History Data https://www.db-thueringen.de/receive/dbt_mods_00055798 
+1. Introduction: Finding Museum data, modelling and visualizing them (Angela Dressen)  
+2. The Semantic Web + API queries (Angela Dressen)  
 3. Practical example: Developing research questions with SPARQL (Angela Dressen)
 4. Practical example: Developing research questions with API query and Jupyter Notebook (Elodie Sacher)
 5. Modelling Data with Open Refine (Angela Dressen)
