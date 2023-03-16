@@ -6,7 +6,7 @@ PD Dr. Angela Dressen,
 Elodie Sacher BA.
 
 
-# Video tutorial series: Querying Art History Data https://www.db-thueringen.de/receive/dbt_mods_00055798 
+# Video tutorial series: Querying Art History Data 
 1. Introduction: Finding Museum data, modelling and visualizing them (Angela Dressen)  
 2. The Semantic Web + API queries (Angela Dressen)  
 3. Practical example: Developing research questions with SPARQL (Angela Dressen)
@@ -14,6 +14,7 @@ Elodie Sacher BA.
 5. Modelling Data with Open Refine (Angela Dressen)
 6. Working with digital images and IIIF (Angela Dressen, Gianmarco Spinaci) 
 7. Considerations: Art historical data and research questions (Angela Dressen) 
+Videos: https://www.db-thueringen.de/receive/dbt_mods_00055798 
 
 # LINKS AND CODES SHOWN IN THE VIDEOS
 
